@@ -4,7 +4,7 @@
 1. Go to [registration page for Widgets R Us](https://robfentress.github.io/accordion/index.html).
 2. Register for an account.
 
-# Questions
+## Questions
 - Does the person know they are in an accordion widget?
 - Is the person confused by the disabled state of expansion buttons that control expanded sections?
 - Does the person expand collapsed regions to fill in all the fields or do they overlook those in collapsed regions?
